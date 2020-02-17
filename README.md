@@ -1,10 +1,10 @@
-## [![XChart](https://raw.githubusercontent.com/knowm/XChart/develop/etc/XChart_64_64.png)](http://knowm.org/open-source/xchart) XChart
+## [![RxChart](https://raw.githubusercontent.com/knowm/XChart/develop/etc/XChart_64_64.png)](http://knowm.org/open-source/xchart) RxChart
 
-XChart is a light weight Java library for plotting data.
+RxChart is a light weight Java library for plotting data utilizing reactive extensions.
 
 ## Description
 
-XChart is a light-weight and convenient library for plotting data designed to go from data to chart in the least amount of time possible and to take the guess-work out of customizing the chart style.
+RxChart is a light-weight and convenient library for plotting data designed to go from data to chart in the least amount of time possible and to take the guess-work out of customizing the chart style.
 
 ## Simplest Example
 
